@@ -7,6 +7,7 @@
     {
       "name": "uYouPlus",
       "bundleIdentifier": "com.google.ios.youtube",
+      "filename": "",
       "githubOwner": "qnblackcat",
       "githubRepository": "uYouPlus",
       "skipPrerelease": true,
